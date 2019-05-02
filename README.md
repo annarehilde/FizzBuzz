@@ -3,7 +3,7 @@
 Getting Started:
 
 ```git clone https://github.com/annarehilde/FizzBuzz.git```
-```cd FizzBuzz/Fizzbuzz```
+'''```cd FizzBuzz/Fizzbuzz```
 
 Running Tests:
 ```dotnet test```
