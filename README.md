@@ -2,12 +2,12 @@
 
 Getting Started:
 
-```git clone https://github.com/annarehilde/FizzBuzz.git```
-'''```cd FizzBuzz/Fizzbuzz```
+```git clone https://github.com/annarehilde/FizzBuzz.git```<br />
+```cd FizzBuzz/Fizzbuzz```
 
-Running Tests:
+Running Tests:<br />
 ```dotnet test```
 
-Execution of Console Application:
-```cd FizzBuzzService```
+Execution of Console Application: <br />
+```cd FizzBuzzService``` <br />
 ```dotnet run```
